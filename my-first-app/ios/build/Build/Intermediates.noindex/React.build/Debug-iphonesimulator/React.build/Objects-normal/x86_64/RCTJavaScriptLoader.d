@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/jamesxie/Desktop/experiments/my-first-app/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Users/jamesxie/Desktop/experiments/my-first-app/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/jamesxie/Desktop/experiments/my-first-app/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/jamesxie/Desktop/experiments/my-first-app/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/jamesxie/Desktop/experiments/my-first-app/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/jamesxie/Desktop/experiments/my-first-app/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/jamesxie/Desktop/experiments/my-first-app/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/jamesxie/Desktop/experiments/my-first-app/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/jamesxie/Desktop/experiments/my-first-app/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/jamesxie/Desktop/experiments/my-first-app/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/jamesxie/Desktop/experiments/my-first-app/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/jamesxie/Desktop/experiments/my-first-app/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/jamesxie/Desktop/experiments/my-first-app/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/jamesxie/Desktop/experiments/my-first-app/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/jamesxie/Desktop/experiments/my-first-app/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/jamesxie/Desktop/experiments/my-first-app/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/jamesxie/Desktop/experiments/my-first-app/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/jamesxie/Desktop/experiments/my-first-app/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/jamesxie/Desktop/experiments/my-first-app/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/jamesxie/Desktop/experiments/my-first-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/jamesxie/Desktop/experiments/my-first-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/jamesxie/Desktop/experiments/my-first-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/jamesxie/Desktop/experiments/my-first-app/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/jamesxie/Desktop/experiments/my-first-app/node_modules/react-native/React/Base/RCTMultipartStreamReader.h \
+  /Users/jamesxie/Desktop/experiments/my-first-app/node_modules/react-native/React/Base/RCTPerformanceLogger.h
